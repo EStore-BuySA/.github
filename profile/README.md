@@ -1,3 +1,3 @@
 ## BuySA
 
-Welcome to our repository. 
+**Buysa** is an ecommerce platform based in Pretoria, South Africa.
